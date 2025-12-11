@@ -270,11 +270,11 @@ jupyter lab alcohol_consumption.ipynb
 
 ## 📄 Licença
 
-Este projeto está sob a licença **MIT**. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está sob a licença **Creative Commons**. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ### Licenças dos Dados
 
-- **Dataset**: FiveThirtyEight (MIT-compatible)
+- **Dataset**: FiveThirtyEight: Alcohol Consumption
 - **Uso**: Educacional e não-comercial
 
 ---
